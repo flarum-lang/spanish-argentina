@@ -19,7 +19,7 @@ This language pack contains Spanish (Argentina) translations for Flarum (compati
 You can install language pack using [Composer](https://getcomposer.org/):
 
 ```console
-composer require flarum-lang/spanish-argentina:dev-master
+composer require "flarum-lang/spanish-argentina:@dev"
 ```
 
 Then enable extension in admin panel of your Flarum.
