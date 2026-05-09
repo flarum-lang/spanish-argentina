@@ -57,3 +57,9 @@ core:
         section_label: Cola
         sync_help: 'Para un mejor rendimiento y experiencia de usuario, considere usar el controlador de cola de base de datos. Obtenga más información en la documentación.'
         sync_info: 'Tu foro está usando controlador de cola síncrono. Jobs se procesan inmediatamente en el hilo principal del proceso.'
+    appearance:
+      colored_header_label: 'Encabezado de Color'
+      colors_heading: Colores
+      colors_primary_label: 'Color Primario'
+      colors_secondary_label: 'Color Secundario'
+      colors_text: 'Elegí dos colores para personalizar la tematica de tu foro. El primero va a ser usado como color de resaltado mientras que el segundo va a ser utilizado para dar estilo a los elementos de fondo.'
