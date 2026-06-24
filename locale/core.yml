@@ -29,6 +29,7 @@ core:
         source_local: 'Local (Paquete)'
       maintenance:
         bisect:
+          begin_button_text: Iniciar
           help: 'Ayuda a identificar la extensión causante de los problemas. Esto automáticamente coloca el foro en modo mantenimiento (cerrado) hasta que el proceso termine.'
         bisect_modal:
           description: "Esto coloca el foro en mantenimiento (cerrado) hasta que el proceso termine. En cada etapa algunas extensiones serán desactivadas hasta encontrar la que causa problemas. No te sorprendas si falta alguna función o si cambia el tema del diseño. Mantén está página abierta, y trata de reproducir el error luego de cada etapa en una pestaña separada. Siempre podrás regresar a esta página si por error se cierra.\n"
